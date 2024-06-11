@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shukrulloHakimjanov
 - 👀 I’m interested in Backend developer
 - 🌱 I’m currently learning Java backend 
-- 😄 Interesting fact about me ... I am interested in one  of the games Supercell 
+- 😄 Interesting fact about me ... I am else interested in one  of the games Supercell 
 - ⚡ Fun fact: Do you know that 'TOMORROW' never comes?
 
 <!---
