@@ -80,14 +80,14 @@ I'm a passionate Java Backend Developer from Tashkent, with expertise in buildin
 - **Key Contributions**:
 - Built mentoring platform (teaching groups/individuals)
 - Created business logic for student assignments
-- Developed mentor timetable with Zoom integration
+- Developed mentor timetable with mentor events
 - Implemented affiliate program for mentors
-- Built real-time chat system with WebSocket
-- **Tech**: Java, Spring Boot, Microservices, WebSocket
+- Built face to face chat with mentor and student in order to discuss homework
+- **Tech**: Java, Spring Boot, Microservices
 
 ### Sickhouses (Ongoing)
 **Company**: TheADtag
-- Health recommendation service
+- Home decoration recommendation service
 - **Key Contributions**:
 - User authentication implementation
 - GraphQL integration
