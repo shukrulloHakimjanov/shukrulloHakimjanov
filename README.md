@@ -8,7 +8,7 @@
 
 I'm a passionate Java Backend Developer from Tashkent, with expertise in building robust applications using Spring Boot and related technologies. I've worked on various e-commerce and learning management systems, gaining valuable experience in both monolithic and microservice architectures.
 
-- 🔭 I'm currently working on **Sickhouses** project, exploring GraphQL
+- 🔭 I'm currently working on **Triplab** and **AI_Agent**  project
 - 🌱 I'm continuously learning and improving my skills
 - 💬 Ask me about Java, Spring Boot, and Microservices
 
